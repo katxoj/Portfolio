@@ -117,7 +117,7 @@ body {
         top: 70px;
         right: -100%;
         flex-direction: column;
-        background: white;
+        background: rgb(72, 72, 72);
         width: 70%;
         height: 100vh;
         padding: 2rem;
